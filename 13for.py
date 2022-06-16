@@ -22,3 +22,6 @@ for d in range(1,11,3):
 
 print()
 print('- ' * 20)
+
+
+#수정 테스트.....
